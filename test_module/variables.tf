@@ -5,7 +5,7 @@
 variable "test_naming_resource_module_base_name" {
     type = string
     description = "base name for testing"
-    default = "example-resource"
+    default = "virtual-machine-example-resource"
 }
 
 variable "test_naming_resource_module_resource_type" {
